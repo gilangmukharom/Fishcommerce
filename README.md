@@ -4,5 +4,5 @@ Aplikasi toko ikan merupakan tugas akhir dari mata kuliah PRPL yang dilengkapi d
 Login
 -Admin
 -User
--Katalog barang
+-Etalase & Katalog barang
 -Checkout barang
