@@ -21,7 +21,7 @@ require 'koneksi.php';
 </head>
 
 <body>
-/*navbar*/
+    /*navbar*/
     <nav class="navbar navbar-expand-lg navbar-light bg-warning fixed-top">
         <div class="container">
             <h3><i class="fab fa-opencart mr-2"></i></h3>
@@ -72,37 +72,37 @@ require 'koneksi.php';
         </div>
     </div>
 
-    
+
     <div class="global-container">
         <div class="card login-form">
             <div class="card-body">
-                <h1 class="card-title text-center"> Sign In</h1>
-                    <div class="card-text">
-                        <form action="prosesregistrasi2.php" method="post">
-                            <div class="form-group">
-                                <label for="exampleInputUsername">Username : </label>
-                                    <input name="inputusername" type="text" class="form-control form-control-sm" id="exampleInputUsername">
-                            </div>
+                <h1 class="card-title text-center"> Sign Up</h1>
+                <div class="card-text">
+                    <form action="prosesregistrasi2.php" method="post">
+                        <div class="form-group">
+                            <label for="exampleInputUsername">Username : </label>
+                            <input name="inputusername" type="text" class="form-control form-control-sm" id="exampleInputUsername">
+                        </div>
 
-                            <div class="form-group">
+                        <div class="form-group">
                             <label for="exampleInputEmail">Email : </label>
-                            
-                                    <input name="inputemail" type="email" class="form-control form-control-sm" id="exampleInputEmail">
-                            </div>
 
-                            <div class="form-group">
+                            <input name="inputemail" type="email" class="form-control form-control-sm" id="exampleInputEmail">
+                        </div>
+
+                        <div class="form-group">
                             <label for="exampleInputPassword">Password : </label>
-                            
-                                    <input name="inputpassword" type="password" class="form-control form-control-sm" id="exampleInputPassword">
-                            </div>
-                            <div class="form-group">
+
+                            <input name="inputpassword" type="password" class="form-control form-control-sm" id="exampleInputPassword">
+                        </div>
+                        <div class="form-group">
                             <label for="exampleInputNoHP">Nomor HP : </label>
-                            
-                                    <input name="inputnohp" type="text" class="form-control form-control-sm" id="exampleInputNoHP">
-                            </div>
-                            <button name="register" type="submit" class="btn btn-primary btn-block">Register</button>
-                        </form>
-                    </div>
+
+                            <input name="inputnohp" type="text" class="form-control form-control-sm" id="exampleInputNoHP">
+                        </div>
+                        <button name="register" type="submit" class="btn btn-primary btn-block">Register</button>
+                    </form>
+                </div>
                 </h1>
             </div>
         </div>
