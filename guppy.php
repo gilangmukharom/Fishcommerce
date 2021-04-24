@@ -61,6 +61,7 @@
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="betta.php" style="text-decoration: none;"> Betta Fish </a></li>
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="gold.php" style="text-decoration: none;"> Gold Fish </a></li>
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="arwana.php" style="text-decoration: none;"> Arwana Fish </a></li>
+                <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="guppy.php" style="text-decoration: none;"> Guppy Fish </a></li>
                 <!-- Button trigger modal -->
                 <li class="list-group-item>"><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
                         Logout</button></li>
@@ -102,7 +103,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -115,7 +116,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -128,7 +129,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -141,7 +142,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -154,7 +155,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -167,7 +168,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
 

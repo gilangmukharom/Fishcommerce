@@ -95,79 +95,79 @@
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/arwana/1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">RED DRAGON ARWANA Rp.400.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Merupakan ikan yang sangat langka yang exclusive dan mempunyai ciri khas warna merah api</p>
+                        <a href="#" class="btn btn-primary">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/arwana/2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">GOLD DRAGON ARWANA Rp.600.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Merupakan ikan yang sangat langka yang exclusive dan mempunyai ciri khas warna emas kemerah-merahan</p>
+                        <a href="#" class="btn btn-primary">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/arwana/3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">SILVER RED ARWANA Rp.550.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Merupakan ikan yang sangat langka yang exclusive dan mempunyai ciri khas campuran warna merah dan silver</p>
+                        <a href="#" class="btn btn-primary">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/arwana/4.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">GREEN SUITE ARWANA Rp.575.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Merupakan ikan yang sangat langka yang exclusive dan mempunyai ciri khas warna hijau menyala</p>
+                        <a href="#" class="btn btn-primary">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/arwana/5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">SILVER ARWANA Rp.350.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Merupakan ikan yang sangat langka yang exclusive dan mempunyai ciri khas warna silver metalik</p>
+                        <a href="#" class="btn btn-primary">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/arwana/6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">GOLD ARWANA Rp.400.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Merupakan ikan yang sangat langka yang exclusive dan mempunyai ciri khas warna Emas menyala</p>
+                        <a href="#" class="btn btn-primary">Add Cart</a>
                     </div>
                 </div>
             </div>

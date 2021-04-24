@@ -60,6 +60,31 @@
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="betta.php" style="text-decoration: none;"> Betta Fish </a></li>
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="gold.php" style="text-decoration: none;"> Gold Fish </a></li>
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="arwana.php" style="text-decoration: none;"> Arwana Fish </a></li>
+                <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="guppy.php" style="text-decoration: none;"> Guppy Fish </a></li>
+                <!-- Button trigger modal -->
+                <li class="list-group-item>"><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+                        Logout</button></li>
+
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalCenterTitle">Logout</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                Anda yakin ingin logout?
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
+                                <button type="button" class="btn btn-primary">Yakin</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </ul>
         </div>
 
@@ -77,7 +102,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Go somewhere</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -90,7 +115,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Go somewhere</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -103,7 +128,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Go somewhere</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -116,7 +141,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Go somewhere</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -129,7 +154,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Go somewhere</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
@@ -142,7 +167,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary btncart">Go somewhere</a>
                     </div>
                 </div>
             </div>

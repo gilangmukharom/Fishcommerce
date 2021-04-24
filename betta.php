@@ -61,6 +61,31 @@
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="betta.php" style="text-decoration: none;"> Betta Fish </a></li>
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="gold.php" style="text-decoration: none;"> Gold Fish </a></li>
                 <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="arwana.php" style="text-decoration: none;"> Arwana Fish </a></li>
+                <li class="list-group-item"><i class="fas fa-angle-right"></i> <a href="guppy.php" style="text-decoration: none;"> Guppy Fish </a></li>
+                <!-- Button trigger modal -->
+                <li class="list-group-item>"><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+                        Logout</button></li>
+
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalCenterTitle">Logout</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                Anda yakin ingin logout?
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Tidak</button>
+                                <button type="button" class="btn btn-primary">Yakin</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </ul>
         </div>
 
@@ -71,79 +96,79 @@
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/betta/1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">CUPANG ALBINO Rp.100.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Adalah cupang bertipe albino yang memiliki cirikhas dengan warna albino</p>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/betta/2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">CUPANG BLUE DRAGON Rp.200.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Adalah cupang bertipe dragon yang memiliki cirikhas dengan warna Biru dan sedikit merah</p>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/betta/3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">CUPANG BLACK BLUE SKY Rp.400.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Adalah cupang bertipe Sky yang memiliki cirikhas dengan warna Hitam dan sedikit biru </p>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/betta/4.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">CUPANG BLUE RED DRAGON Rp.350.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Adalah cupang bertipe dragon yang memiliki cirikhas dengan warna Biru dengan campuran merah</p>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/betta/5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">CUPANG AVATAR GOLD</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Adalah cupang bertipe Avatar yang memiliki cirikhas dengan warna Gold kuning dan biru</p>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
                     <img src="img/betta/6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">CUPANG RED ALBINO Rp.500.000</h5>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <p class="card-text">Adalah cupang bertipe albino yang memiliki cirikhas dengan warna albino dan sedikit warna merah</p>
+                        <a href="#" class="btn btn-primary btncart">Add Cart</a>
                     </div>
                 </div>
             </div>
