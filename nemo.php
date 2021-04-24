@@ -13,7 +13,7 @@
 </head>
 
 <body>
-/*navbar*/
+    /*navbar*/
     <nav class="navbar navbar-expand-lg navbar-light bg-warning fixed-top">
         <div class="container">
             <h3><i class="fab fa-opencart mr-2"></i></h3>
@@ -68,7 +68,7 @@
             <h4 class="text-center font-weight-bold m-4">Produk Terbaru</h4>
             <div class="row">
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/nemo/1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/nemo/2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -94,7 +94,46 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/nemo/3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card ml-5" style="width: 18rem;">
+                    <img src="img/nemo/4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card ml-5" style="width: 18rem;">
+                    <img src="img/nemo/5.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card ml-5" style="width: 18rem;">
+                    <img src="img/nemo/6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
