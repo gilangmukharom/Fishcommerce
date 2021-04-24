@@ -93,7 +93,7 @@
             <h4 class="text-center font-weight-bold m-4">Produk Terbaru</h4>
             <div class="row">
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/arwana/1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -106,7 +106,7 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/arwana/2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -119,7 +119,46 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/arwana/3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card ml-5" style="width: 18rem;">
+                    <img src="img/arwana/4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card ml-5" style="width: 18rem;">
+                    <img src="img/arwana/5.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card ml-5" style="width: 18rem;">
+                    <img src="img/arwana/6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
