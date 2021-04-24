@@ -93,7 +93,7 @@
             <h4 class="text-center font-weight-bold m-4">Produk Terbaru</h4>
             <div class="row">
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/guppy/1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -106,7 +106,7 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/guppy/2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -119,7 +119,7 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/guppy/3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -132,7 +132,7 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/guppy/4.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -145,7 +145,7 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/guppy/5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
@@ -158,7 +158,7 @@
                     </div>
                 </div>
                 <div class="card ml-5" style="width: 18rem;">
-                    <img src="img/92.jpg" class="card-img-top" alt="...">
+                    <img src="img/guppy/6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <i class="fas fa-star"></i>
